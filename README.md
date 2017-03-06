@@ -1,3 +1,3 @@
 # PIS1
-I've added another line.
-This is my project for Information Systems Analysis and Design.
+Changed a line completely.
+Added a thing. This is my project for Information Systems Analysis and Design.
